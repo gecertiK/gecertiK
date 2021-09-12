@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @gecertiK
 - 👀 I’m interested in books
 - 🌱 I’m currently learning python
-- 💞️ 
